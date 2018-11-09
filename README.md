@@ -83,3 +83,5 @@ frpc-Android 是一个免费且开源的项目，我们欢迎任何人为其开�
 [bjbjoaoa@qq.com](mailto:bjbjoaoa@qq.com)
 
 [momo@188.com](mailto:momo@188.com)
+
+[zqy1301@qq.com](mailto:zqy1301@qq.com)
