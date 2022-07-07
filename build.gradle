@@ -2,18 +2,19 @@
 buildscript {
 
     repositories {
-        jcenter()
         google()
+        maven { url 'https://jitpack.io' }
+        jcenter()
+
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.2.1'
-        classpath 'org.greenrobot:greendao-gradle-plugin:3.2.2'
-
+        classpath "com.android.tools.build:gradle:4.2.1"
     }
 }
 allprojects {
     repositories {
         google()
+        maven { url 'https://jitpack.io' }
         jcenter()
     }
 }
