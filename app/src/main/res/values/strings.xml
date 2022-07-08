@@ -5,6 +5,7 @@
     <string name="app_lb">Frpc_0.18.0</string>
     <string name="prompt_email">frpc.ini路径</string>
     <string name="action_sign_in">启动</string>
+    <string name="action_choose_config_file">选择配置文件</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_field_required">This field is required</string>
